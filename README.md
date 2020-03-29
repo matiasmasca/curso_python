@@ -30,11 +30,25 @@ Código de la clase: [v3] [acceder al código utilizado](https://github.com/mati
 Ver clase en **YouTube** [https://www.youtube.com/watch?v=4M6PfqcCJcQ&feature=emb_logo](https://www.youtube.com/watch?v=4M6PfqcCJcQ&feature=emb_logo) [v2]
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/4M6PfqcCJcQ/0.jpg)](http://www.youtube.com/watch?v=4M6PfqcCJcQ)
+[![VIDEO YOUTUBE](http://img.youtube.com/vi/4M6PfqcCJcQ/0.jpg)](http://www.youtube.com/watch?v=4M6PfqcCJcQ)
 
 
 ## Clase 5 - Python 2
-< en proceso >
+En esta clase vemos los bucles de control del flujo While y For en Python.
 
+También vemos las asignaciones multiples.
+
+Los diccionarios
+
+Manejo de excepciones o errores con Try
+
+Lectura y escritura de archivos planos.
+
+Código de la clase: [v2] [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Clase02)
+
+
+Ver clase en **YouTube** PARTE 1 de 2: [https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be](https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be) [v2]
+
+[![VIDEO YOUTUBE](http://img.youtube.com/vi/vC6iQ1I-oXs/0.jpg)](http://www.youtube.com/watch?v=vC6iQ1I-oXs)
 
 
