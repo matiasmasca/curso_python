@@ -49,6 +49,20 @@ Código de la clase: [v2] [acceder al código utilizado](https://github.com/mati
 
 Ver clase en **YouTube** PARTE 1 de 2: [https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be](https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be) [v2]
 
+- Bucle While
+- Bucle For
+
 [![VIDEO YOUTUBE](http://img.youtube.com/vi/vC6iQ1I-oXs/0.jpg)](http://www.youtube.com/watch?v=vC6iQ1I-oXs)
 
 
+Ver clase en **YouTube** PARTE 2 de 2: [https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be](https://www.youtube.com/watch?v=7VmfxEjyoHU&feature=youtu.be) [v2]
+
+Temas tratados en el video
+
+Listas de 2 dimensiones, grilla o matriz con lista de listas.
+Asignación múltiple e interpolación de cadenas
+Diccionario
+Manejo de errores con Try y excepciones.
+Lectura y escritura de archivos de texto plano.
+
+[![VIDEO YOUTUBE](http://img.youtube.com/vi/7VmfxEjyoHU/0.jpg)](http://www.youtube.com/watch?v=7VmfxEjyoHU)
