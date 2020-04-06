@@ -66,3 +66,49 @@ Manejo de errores con Try y excepciones.
 Lectura y escritura de archivos de texto plano.
 
 [![VIDEO YOUTUBE](http://img.youtube.com/vi/7VmfxEjyoHU/0.jpg)](http://www.youtube.com/watch?v=7VmfxEjyoHU)
+
+
+
+## Clase 6 - Introducción a PyGame
+¿ Qué vemos en la clase (vídeo) ?
+- Intro a PyGame.
+- Como ejecutar por primera vez
+- Objeto Ventana.
+- Como dibujar:
+-- poligonos
+-- lineas
+-- circulos y elipses
+-- rectangulos
+
+¿Qué es PyGame?
+
+Pygame es un framework libre para Python que provee una serie de modulos diseñados para escribir programas multimadia, entre ellos videojuegos en 2D y 3D. Puede manejar tiempo, imagenes en diferentes formatos, video, sonidos, fuentes, cursores, mouse, teclado, joysticks y más; de una manera muy sencilla. La versión, al momento de grabar fue la 1.9.6, esta en desarrollo la 2.
+
+Esta basada en una liberia llamada SDL (Simple DirectMedia Layer Library), escrita en C lo que le permite ser multiplataforma de manera simple y le agrega sus propias funciones.
+
+Documentación: https://github.com/pygame/pygame
+
+* Como instalar...
+- Windows: busca un instalar aqui.
+https://bitbucket.org/pygame/pygame/downloads/
+
+- Linux Ubuntu:
+ejecutar en la terminal:
+$ sudo apt-get install python-pygame
+o con pip: $ pip install pygame
+
+* Probar juego demo
+ejecutar en la terminal de comandos: $ python3 -m pygame.examples.aliens
+
+* Colores
+El sitio que se ve en el vídeo para elegir un color es Colores:  [https://htmlcolorcodes.com/](https://htmlcolorcodes.com/)
+
+Ver clase en **YouTube**: [https://www.youtube.com/watch?v=3zyn-4drvoI&feature=youtu.be](https://www.youtube.com/watch?v=3zyn-4drvoI&feature=youtu.be) [v2]
+
+[![VIDEO YOUTUBE](http://img.youtube.com/vi/3zyn-4drvoI/0.jpg)](http://www.youtube.com/watch?v=3zyn-4drvoI)
+
+La musica de fondo es [AudioLibrary Come Home - Declan DP](https://www.youtube.com/watch?v=MZ3HGnH50Zw&list=PLzCxunOM5WFIxNligdpQGH0seCt0DTH2q)
+
+
+https://github.com/matiasmasca/curso_python/tree/Pygame_clase1
+Código de la clase: [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Pygame_clase1)
