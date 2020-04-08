@@ -88,7 +88,7 @@ Esta basada en una liberia llamada SDL (Simple DirectMedia Layer Library), escri
 
 Documentación: https://github.com/pygame/pygame
 
-* Como instalar...
+# Como instalar...
 - Windows: busca un instalar aqui.
 https://bitbucket.org/pygame/pygame/downloads/
 
@@ -97,10 +97,10 @@ ejecutar en la terminal:
 $ sudo apt-get install python-pygame
 o con pip: $ pip install pygame
 
-* Probar juego demo
+# Probar juego demo
 ejecutar en la terminal de comandos: $ python3 -m pygame.examples.aliens
 
-* Colores
+# Colores
 El sitio que se ve en el vídeo para elegir un color es Colores:  [https://htmlcolorcodes.com/](https://htmlcolorcodes.com/)
 
 Ver clase en **YouTube**: [https://www.youtube.com/watch?v=3zyn-4drvoI&feature=youtu.be](https://www.youtube.com/watch?v=3zyn-4drvoI&feature=youtu.be) [v2]
@@ -112,3 +112,14 @@ La musica de fondo es [AudioLibrary Come Home - Declan DP](https://www.youtube.c
 
 https://github.com/matiasmasca/curso_python/tree/Pygame_clase1
 Código de la clase: [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Pygame_clase1)
+
+
+## Clase 7: Moviento y colisiones. Uso elemental de imagenes en Pygame.
+
+Demostración de código, continuación de la introducción a la librería PyGame. Se muestrá como mover un cuadrado sobre la pantalla, como detectar colisiones con otros objetos. También como cargar una imagen de un personaje e interactuar con ese cuadrado. Además de como mover el personaje con teclado. Luego como ejercicios los alumnos del curso tuvieron que practicar hacer algo similar. El que no tenia instalado lo necesario pudo hacerlo desde la herramienta online repl.it eligiendo en la lista de lenguajes “pygame”
+
+Ver clase en **YouTube**: [https://www.youtube.com/watch?v=pVYjMFTMBr4&feature=youtu.be](https://www.youtube.com/watch?v=pVYjMFTMBr4&feature=youtu.be) [v2]
+
+[![VIDEO YOUTUBE](http://img.youtube.com/vi/pVYjMFTMBr4/0.jpg)](http://www.youtube.com/watch?v=pVYjMFTMBr4)
+
+Código de la clase: [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Pygame_clase2)
