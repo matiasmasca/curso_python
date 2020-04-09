@@ -123,3 +123,17 @@ Ver clase en **YouTube**: [https://www.youtube.com/watch?v=pVYjMFTMBr4&feature=y
 [![VIDEO YOUTUBE](http://img.youtube.com/vi/pVYjMFTMBr4/0.jpg)](http://www.youtube.com/watch?v=pVYjMFTMBr4)
 
 Código de la clase: [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Pygame_clase2)
+
+
+
+## Clase 8: Juego sencillo con mouse. Brick (clone de blockout o Arcanoiv)
+
+Demostración de código en vivo. Se aplico los visto en las clases pasadas para hacer un juego sencillo Brick (clon de Arconoiv). Se mostró como mover la imagen de la pelota y la paleta sobre la pantalla, como detectar colisiones en una lista para eliminar los bloques. Como mover el personaje con el mouse. Los alumnos fueron planteando situaciones alternativas al código generado y se modifico en vivo.
+
+Como tarea los alumnos tienen que modificar el código para agregarle funcionalidades.
+
+Ver clase en **YouTube**: [https://www.youtube.com/watch?v=1fQ0nPyW79o&feature=youtu.be](https://www.youtube.com/watch?v=1fQ0nPyW79o&feature=youtu.be) [v2]
+
+[![VIDEO YOUTUBE](http://img.youtube.com/vi/1fQ0nPyW79o/0.jpg)](http://www.youtube.com/watch?v=1fQ0nPyW79o)
+
+Código de la clase: [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Pygame_clase3)
