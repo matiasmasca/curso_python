@@ -126,7 +126,7 @@ Código de la clase: [acceder al código utilizado](https://github.com/matiasmas
 
 
 
-## Clase 8: Juego sencillo con mouse. Brick (clone de blockout o Arcanoid)
+## Clase 8: Juego sencillo con mouse. Brick (clone de blockout o Arkanoid)
 
 Demostración de código en vivo. Se aplico los visto en las clases pasadas para hacer un juego sencillo Brick (clon de Arconoiv). Se mostró como mover la imagen de la pelota y la paleta sobre la pantalla, como detectar colisiones en una lista para eliminar los bloques. Como mover el personaje con el mouse. Los alumnos fueron planteando situaciones alternativas al código generado y se modifico en vivo.
 
