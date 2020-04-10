@@ -47,7 +47,7 @@ Lectura y escritura de archivos planos.
 Código de la clase: [v2] [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Clase02)
 
 
-Ver clase en **YouTube** PARTE 1 de 2: [https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be](https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be) [v2]
+Ver clase en **YouTube** PARTE 1 de 2: [https://www.youtube.com/watch?v=r-Y3kXEpyDc &feature=youtu.be](https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be) [v2]
 
 - Bucle While
 - Bucle For
@@ -55,7 +55,7 @@ Ver clase en **YouTube** PARTE 1 de 2: [https://www.youtube.com/watch?v=vC6iQ1I-
 [![VIDEO YOUTUBE](http://img.youtube.com/vi/vC6iQ1I-oXs/0.jpg)](http://www.youtube.com/watch?v=vC6iQ1I-oXs)
 
 
-Ver clase en **YouTube** PARTE 2 de 2: [https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be](https://www.youtube.com/watch?v=7VmfxEjyoHU&feature=youtu.be) [v2]
+Ver clase en **YouTube** PARTE 2 de 2: [https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be](https://www.youtube.com/watch?v=vC6iQ1I-oXs&feature=youtu.be) [v2]
 
 Temas tratados en el video
 
@@ -66,6 +66,20 @@ Manejo de errores con Try y excepciones.
 Lectura y escritura de archivos de texto plano.
 
 [![VIDEO YOUTUBE](http://img.youtube.com/vi/7VmfxEjyoHU/0.jpg)](http://www.youtube.com/watch?v=7VmfxEjyoHU)
+
+
+## Clase 5.2 - Repaso Estructuras de Datos en Python
+
+En el vídeo se muestran algunas estructuras de datos utilizadas en Python. Como crearlas, como acceder a sus elementos y como modificarlas.
+- Listas
+- listas de 2 dimensiones o matrices
+- tuplas
+- Diccionarios
+
+[![VIDEO YOUTUBE](http://img.youtube.com/vi/r-Y3kXEpyDc/0.jpg)](http://www.youtube.com/watch?v=r-Y3kXEpyDc)
+
+
+Ver clase en **YouTube** PARTE 2 de 2: [https://www.youtube.com/watch?v=r-Y3kXEpyDc&feature=youtu.be](https://www.youtube.com/watch?v=r-Y3kXEpyDc&feature=youtu.be) [v2]
 
 
 
