@@ -151,3 +151,22 @@ Ver clase en **YouTube**: [https://www.youtube.com/watch?v=1fQ0nPyW79o&feature=y
 [![VIDEO YOUTUBE](http://img.youtube.com/vi/1fQ0nPyW79o/0.jpg)](http://www.youtube.com/watch?v=1fQ0nPyW79o)
 
 Código de la clase: [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Pygame_clase3)
+
+## Clase 9:
+Repaso de conceptos: que es un objeto Rect y un objeto Surface. Sistema de coordenadas.
+
+Juego donde el personaje se va alimentando comiendo bacterias y va cambiando de tamaño usando la función Scale.
+
+
+Ver clase en **YouTube**: [https://www.youtube.com/watch?v=1R_oK9cbC_g&feature=youtu.be](https://www.youtube.com/watch?v=1R_oK9cbC_g&feature=youtu.be) [v2]
+
+[![VIDEO YOUTUBE](http://img.youtube.com/vi/1R_oK9cbC_g/0.jpg)](http://www.youtube.com/watch?v=1R_oK9cbC_g)
+
+
+## Clase 10:
+Explicación del juego. Vimos la función move_ip (move in place), como mostrar textos en la pantalla, como por ejemplo el puntaje del jugador y una pantalla al inicio del juego.
+
+
+Ver clase en **YouTube**: [https://www.youtube.com/watch?v=lWlleWddVBM&feature=youtu.be](https://www.youtube.com/watch?v=lWlleWddVBM&feature=youtu.be) [v2]
+
+[![VIDEO YOUTUBE](http://img.youtube.com/vi/lWlleWddVBM/0.jpg)](http://www.youtube.com/watch?v=lWlleWddVBM)
