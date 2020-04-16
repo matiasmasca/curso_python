@@ -162,6 +162,7 @@ Ver clase en **YouTube**: [https://www.youtube.com/watch?v=1R_oK9cbC_g&feature=y
 
 [![VIDEO YOUTUBE](http://img.youtube.com/vi/1R_oK9cbC_g/0.jpg)](http://www.youtube.com/watch?v=1R_oK9cbC_g)
 
+Código de la clase: [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Pygame_clase4)
 
 ## Clase 10:
 Explicación del juego. Vimos la función move_ip (move in place), como mostrar textos en la pantalla, como por ejemplo el puntaje del jugador y una pantalla al inicio del juego.
@@ -170,3 +171,5 @@ Explicación del juego. Vimos la función move_ip (move in place), como mostrar 
 Ver clase en **YouTube**: [https://www.youtube.com/watch?v=lWlleWddVBM&feature=youtu.be](https://www.youtube.com/watch?v=lWlleWddVBM&feature=youtu.be) [v2]
 
 [![VIDEO YOUTUBE](http://img.youtube.com/vi/lWlleWddVBM/0.jpg)](http://www.youtube.com/watch?v=lWlleWddVBM)
+
+Código de la clase: [acceder al código utilizado](https://github.com/matiasmasca/curso_python/tree/Pygame_clase5)
